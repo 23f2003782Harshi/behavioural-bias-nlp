@@ -3,6 +3,14 @@
 
 ---
 
+## Project Highlights
+
+- Built classical + transformer NLP models for behavioral finance classification  
+- Achieved **0.96 Macro F1** using fine-tuned DistilBERT  
+- Applied SHAP for feature-level interpretability  
+- Addressed class imbalance using Macro F1 and Stratified K-Fold  
+
+
 ## Project Motivation
 
 Behavioral finance studies how psychological biases influence financial decision-making. Concepts such as **Overconfidence**, **Loss Aversion**, and **Rational Behavior** are central to the CFA Level I curriculum.
